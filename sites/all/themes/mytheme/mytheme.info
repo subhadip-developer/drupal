@@ -1,0 +1,11 @@
+name = mytheme
+description = my test theme for drupal theme development practice and display my professional and personal information in my site.
+version = 1.0
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = style.css
+screenshot = screenshot.png
+
+regions[header] = Header
+regions[footer] = Footer
+regions[main_content] = Main Content
